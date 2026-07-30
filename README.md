@@ -69,27 +69,6 @@ machine-learning-notebooks/
 
 ---
 
-# 📚 Learning Roadmap
-
-| Progress | Topic                            |
-| -------- | -------------------------------- |
-| ✅        | Introduction to Machine Learning |
-| ⏳        | Types of Machine Learning        |
-| ⏳        | Data Preprocessing               |
-| ⏳        | Feature Engineering              |
-| ⏳        | Regression                       |
-| ⏳        | Classification                   |
-| ⏳        | Clustering                       |
-| ⏳        | Dimensionality Reduction         |
-| ⏳        | Ensemble Learning                |
-| ⏳        | Model Evaluation                 |
-| ⏳        | Hyperparameter Tuning            |
-| ⏳        | Recommendation Systems           |
-| ⏳        | Machine Learning Mathematics     |
-| ⏳        | Real-world Projects              |
-
----
-
 # ✨ Highlights
 
 * 📖 Beginner-friendly explanations
